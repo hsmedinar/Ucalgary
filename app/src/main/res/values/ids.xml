@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="news"></item>
+    <item type="id" name="social"></item>
+    <item type="id" name="course"></item>
+    <item type="id" name="suscription"></item>
+    <item type="id" name="content_course"></item>
+    <item type="id" name="content"></item>
+
+    <item type="id" name="header"></item>
+    <item type="id" name="title"></item>
+    <item type="id" name="body"></item>
+    <item type="id" name="footer"></item>
+    <item type="id" name="icon"></item>
+    <item type="id" name="events"></item>
+
+
+    <item type="id" name="name"></item>
+    <item type="id" name="email"></item>
+    <item type="id" name="phone"></item>
+
+
+    <item type="id" name="backgroundHeader"></item>
+
+    <item type="id" name="back"></item>
+    <item type="id" name="weburl"></item>
+
+    <item type="id" name="save"></item>
+
+
+</resources>

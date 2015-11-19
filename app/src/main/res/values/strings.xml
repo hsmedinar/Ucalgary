@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calgary University</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="opt1">Angelica Santamaria Reque</string>u
+    <string name="opt2">angelica.sm03@gmail.com</string>
+    <string name="opt3">Ing de sistemas</string>
+
+    <string name="url_news">http://23.21.212.9/rss-angers/student-xml</string>
+    <string name="url_events">http://23.21.212.9/rss-manage/feed-taxonomy-xml/events</string>
+    <string name="url_ssc">http://23.21.212.9/rss-angers/feed-taxonomy-xml/ssc</string>
+    <string name="url_courses">http://23.21.212.9/rss-angers/xml/courses</string>
+    <string name="url_suscription">http://23.21.212.9/rss-angers/registra_suscripcion?</string>
+
+    <string name="appointments_url">https://cas.ucalgary.ca/cas/login?service=https%3A%2F%2Fsuccess.ucalgary.ca%2FcalgaryLogin.htm%3Faction%3Dlogin</string>
+
+    <string name="database">Ucalgary</string>
+
+    <string name="back">Back</string>
+
+    <string name="field_id">field_suscription_course</string>
+    <string name="field_name">field_suscription_name</string>
+    <string name="field_cell">field_suscription_phone</string>
+    <string name="field_email">field_suscription_email</string>
+
+    <string name="suscription_successful">Suscripcion completada</string>
+    <string name="suscription_fail">Ocurrio un error, intentelo mas tarde</string>
+
+
+</resources>

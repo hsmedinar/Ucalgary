@@ -1,0 +1,3 @@
+include ':app', ':libraryFab', ':libraryPullTo'
+project(':libraryFab').projectDir = new File('library')
+project(':libraryPullTo').projectDir = new File('libraryPull')
